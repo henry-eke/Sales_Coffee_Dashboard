@@ -1,0 +1,16 @@
+Overview:
+This project features an interactive sales dashboard designed to analyze coffee sales across multiple dimensions. The dashboard is built using advanced Excel functionalities to ensure dynamic, user-friendly, and insightful visualizations.
+_ _ _ _ _ _ _  _ _ _ _ _ _ _ _ _ _ _ _
+
+Key Features:
+Sales Trends Analysis: Displays total sales over time, categorized by roast types and sizes, leveraging Pivot Tables to organize and summarize data efficiently.
+Dynamic Lookup: Utilizes XLOOKUP to fetch specific customer details and sales data dynamically based on inputs, ensuring accuracy and ease of use.
+Data Integration: Incorporates the INDEX function to extract precise values from structured datasets, enabling seamless interaction between various dashboard elements.
+Regional and Customer Insights: Highlights top-performing countries and customers with intuitive bar charts and filters.
+_ _ _ _ _ _ _  _ _ _ _ _ _ _ _ _ _ _ _
+
+Purpose:
+The dashboard equips decision-makers with:
+Sales trend analysis to identify patterns.
+Insights into top-performing regions and customer segments.
+Flexible filtering options to explore data dynamically.
